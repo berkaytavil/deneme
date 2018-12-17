@@ -1,42 +1,42 @@
 ﻿{"yemekler":[
   { 
 	"yemek_id":1, 
-   	"yemek_adi":"Yemek Adı 1" ,
-	"yemek_aciklama":"Tarifin Detayları 1" ,
-	"yemek_tur":"tür 1" ,
-	"yemek_pisirme_suresi":"Doe" ,
-	"yemek_kisi_sayisi":"Doe" ,
+   	"yemek_adi":"ÇORBA" ,
+	"yemek_aciklama":"Tarifin Detayları " ,
+	"yemek_tur":"çorbalar" ,
+	"yemek_pisirme_suresi":"20" ,
+	"yemek_kisi_sayisi":"10" ,
 	"yemek_resim":"Doe" ,
-	"yemek_malezemeler":"Doe" 
+	"yemek_malezemeler":"Salça" 
  },
  { 
 	"yemek_id":2, 
-   	"yemek_adi":"Doe" ,
+   	"yemek_adi":"Ispanak" ,
 	"yemek_aciklama":"Doe" ,
-	"yemek_tur":"Doe" ,
-	"yemek_pisirme_suresi":"Doe" ,
-	"yemek_kisi_sayisi":"Doe" ,
+	"yemek_tur":"Ana Yemek" ,
+	"yemek_pisirme_suresi":"35" ,
+	"yemek_kisi_sayisi":"5" ,
 	"yemek_resim":"Doe" ,
-	"yemek_malezemeler":"Doe" 
+	"yemek_malezemeler":"Salça" 
  },
  { 
 	"yemek_id":3, 
-   	"yemek_adi":"Doe" ,
+   	"yemek_adi":"Sütlaç" ,
 	"yemek_aciklama":"Doe" ,
 	"yemek_tur":"Doe" ,
-	"yemek_pisirme_suresi":"Doe" ,
-	"yemek_kisi_sayisi":"Doe" ,
+	"yemek_pisirme_suresi":"60" ,
+	"yemek_kisi_sayisi":"20" ,
 	"yemek_resim":"Doe" ,
-	"yemek_malezemeler":"Doe" 
+	"yemek_malezemeler":"Salça" 
  },
  { 
 	"yemek_id":4, 
-   	"yemek_adi":"Doe" ,
+   	"yemek_adi":"Pırasa" ,
 	"yemek_aciklama":"Doe" ,
 	"yemek_tur":"Doe" ,
-	"yemek_pisirme_suresi":"Doe" ,
-	"yemek_kisi_sayisi":"Doe" ,
+	"yemek_pisirme_suresi":"40" ,
+	"yemek_kisi_sayisi":"10" ,
 	"yemek_resim":"Doe" ,
-	"yemek_malezemeler":"Doe" 
+	"yemek_malezemeler":"Salça" 
  }
 ]}
